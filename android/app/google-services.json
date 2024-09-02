@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "285793972210",
+    "project_id": "shoesmith-bus-app",
+    "storage_bucket": "shoesmith-bus-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285793972210:android:8bc6b338090a23a922856b",
+        "android_client_info": {
+          "package_name": "com.example.busapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285793972210-sblqo2ltilpigq2cmthkvo3t7e8drneb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.busapp",
+            "certificate_hash": "0448faaaae44d7081de579831a649db530dc45b0"
+          }
+        },
+        {
+          "client_id": "285793972210-cnv5j73li0q13gt3p40ic885dc4iq9n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARTBrzNNtRAjrM4dFlzNgoUJILO_Va4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285793972210-cnv5j73li0q13gt3p40ic885dc4iq9n8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285793972210-nbc53o0eil2r3ria2q3n7dp1e0fnjao1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.busapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
